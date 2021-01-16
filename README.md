@@ -1,2 +1,2 @@
 # CoronaApp
- an android app which provide Covid19 news 24 hour
+This is an  Android project(Using java programming language) which provide you current news of Covid19.....
